@@ -8,5 +8,5 @@ def lower(s):
             o= o+l
     return o
 
-s1=lower("Hello World!")
+s1=lower("i am really, really good. So are you!")
 print s1
