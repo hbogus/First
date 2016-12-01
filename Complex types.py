@@ -7,8 +7,8 @@ l.append(2)
 print l
 
 d={}
-d[1]='a'
-d[2]='b'
+d[1]='b'
+d[2]='c'
 print d
 print l[1]
 l[1]=5
